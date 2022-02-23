@@ -11,3 +11,5 @@ ddsf;ldkflsfl;;
 충돌해결하기
 
 reset에러낸다
+
+브랜치를 만들엇다
